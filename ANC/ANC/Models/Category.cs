@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace ANC.Models
 {
@@ -9,6 +10,9 @@ namespace ANC.Models
 
         [Required]
         public string Name { get; set; }
+
+        [DisplayName("Display Order")]
+        [Range(1,50, ErrorMessage = "Display Order must be between 1 and 50 characters")]
 
         public int DisplayOrder { get; set; }
 
