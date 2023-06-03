@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\ANC.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Maicol\\OneDrive\\Escritorio\\ANC\\ANC\\ANC\\wwwroot\\css\\bootwatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\bootwatchTheme.css"
+    },
+    {
       "Id": "C:\\Users\\Maicol\\OneDrive\\Escritorio\\ANC\\ANC\\ANC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

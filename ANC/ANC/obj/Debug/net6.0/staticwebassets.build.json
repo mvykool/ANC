@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QBkN7F20Rm7mzZaC1Xs28fwlR8P+LxqcGSYPzNLRIq0=",
+  "Hash": "MQuxykd9klPiL+NBneOi3ciLPUPED0Hrxy5r3Tz9V/M=",
   "Source": "ANC",
   "BasePath": "_content/ANC",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Maicol\\OneDrive\\Escritorio\\ANC\\ANC\\ANC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ANC.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Maicol\\OneDrive\\Escritorio\\ANC\\ANC\\ANC\\wwwroot\\css\\bootwatchTheme.css",
+      "SourceId": "ANC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Maicol\\OneDrive\\Escritorio\\ANC\\ANC\\ANC\\wwwroot\\",
+      "BasePath": "_content/ANC",
+      "RelativePath": "css/bootwatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootwatchTheme.css"
     },
     {
       "Identity": "C:\\Users\\Maicol\\OneDrive\\Escritorio\\ANC\\ANC\\ANC\\wwwroot\\css\\site.css",

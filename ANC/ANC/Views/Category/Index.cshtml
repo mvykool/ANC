@@ -1,7 +1,44 @@
-﻿
+﻿@model List<Category>
 @{
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<div class="container p-3">
+    <div class="row p-4">
+        <div class="col-6">
+            <h2 class="text-primary">Category list</h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="Category" asp-action="Create" class="btn btn-primary">
+                Create Category
+            </a>
+        </div>
+    </div>
 
+
+ <table class="table table-bordered table-striped" style="width: 100%">
+     <thead>
+         <tr>
+             <th>
+                 Category name
+             </th>
+             <th>
+                 Display order
+             </th>
+         </tr>
+     </thead>
+     <tbody>
+         @foreach(var obj in Model)
+        {
+            <tr>
+                <td width="50%">  
+                    @obj.Name
+                </td>
+                <td width="50%">
+                    @obj.DisplayOrder
+                </td>
+            </tr>
+        }
+    </tbody>
+ </table>
+</div>
