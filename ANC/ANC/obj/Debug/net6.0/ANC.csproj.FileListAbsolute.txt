@@ -29,3 +29,14 @@ C:\Users\Maicol\OneDrive\Escritorio\ANC\ANC\ANC\obj\Debug\net6.0\refint\ANC.dll
 C:\Users\Maicol\OneDrive\Escritorio\ANC\ANC\ANC\obj\Debug\net6.0\ANC.pdb
 C:\Users\Maicol\OneDrive\Escritorio\ANC\ANC\ANC\obj\Debug\net6.0\ANC.genruntimeconfig.cache
 C:\Users\Maicol\OneDrive\Escritorio\ANC\ANC\ANC\obj\Debug\net6.0\ref\ANC.dll
+C:\Users\Maicol\OneDrive\Escritorio\ANC\ANC\ANC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maicol\OneDrive\Escritorio\ANC\ANC\ANC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maicol\OneDrive\Escritorio\ANC\ANC\ANC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Maicol\OneDrive\Escritorio\ANC\ANC\ANC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Maicol\OneDrive\Escritorio\ANC\ANC\ANC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Maicol\OneDrive\Escritorio\ANC\ANC\ANC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Maicol\OneDrive\Escritorio\ANC\ANC\ANC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Maicol\OneDrive\Escritorio\ANC\ANC\ANC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Maicol\OneDrive\Escritorio\ANC\ANC\ANC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Maicol\OneDrive\Escritorio\ANC\ANC\ANC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Maicol\OneDrive\Escritorio\ANC\ANC\ANC\obj\Debug\net6.0\ANC.csproj.CopyComplete
